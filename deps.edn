@@ -1,0 +1,7 @@
+{:paths ["src"]
+ :deps {,
+        org.clojure/clojure {:mvn/version "1.11.1"}
+        org.clojure/core.match {:mvn/version "1.0.0"}
+        com.crypticbutter/snoop {:mvn/version "21-353-alpha"}
+        metosin/malli {:mvn/version "0.10.2"}
+        ,}}
